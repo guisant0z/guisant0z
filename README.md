@@ -14,7 +14,7 @@ Minha experiência profissional foi totalmente voltada para a área de logístic
 
 
 **Meus interesses pessoais:**
-<img align="right" alt="GIF" src="" width="400px" />
+<!--<img align="right" alt="GIF" src="" width="400px" /> -->
 - 👩‍💻 Me tornar um profissional na área de dados, **Python**;
 - Estou inscrito em um curso de administrador de banco de Dados no Senai **SQLserver**, que terá início em Março/2022:
 
