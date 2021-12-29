@@ -5,7 +5,7 @@
 </p>
 <p align="left" >
 Atualmente moro em Itabira/MG-BR.<br />
-Sou estudante da @soulcode no curdo de <b>Engenharia de Dados</b>,e estou cursando o último período do curso de <b>Análise e Desenvolvimento de Sistemas</b> na @estáciodesá.
+Sou estudante da @soulcode no curso de <b>Engenharia de Dados</b>,e estou cursando o último período do curso de <b>Análise e Desenvolvimento de Sistemas</b> na @estáciodesá.
 Minha experiência profissional foi totalmente voltada para a área de logística , até que um certo dia decidi que queria trilhar um outro rumo e mudar minha área de atuação.  
 </p>
 
@@ -27,6 +27,7 @@ Minha experiência profissional foi totalmente voltada para a área de logístic
   - Fazer uma trilha (andar no mato);
   - Assistir uma série;
   - Jogar algum game;
+  - Dançar forró;
   - Cozinhar;
   - Viajar;
  
